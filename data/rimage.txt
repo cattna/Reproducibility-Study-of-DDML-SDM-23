@@ -1,0 +1,2 @@
+Tiny-ImageNet-C dataset is available for download at:
+https://zenodo.org/records/2536630/files/Tiny-ImageNet-C.tar?download=1
