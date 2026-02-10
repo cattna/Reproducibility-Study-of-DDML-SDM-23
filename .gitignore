@@ -1,0 +1,8 @@
+data/
+output/
+__pycache__/
+*.pt
+*.pth
+*.pkl
+*.log
+*.mat
