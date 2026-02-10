@@ -1,5 +1,7 @@
 ## Reproducibility Study
-This project is a reproducibility Study of Domain Disentangled Meta-Learning (DDML): SDM'23 (https://github.com/XinZhang525/SDM-DDML)
+This project is a reproducibility Study of Domain Disentangled Meta-Learning (DDML): SDM'23
+Paper (https://users.wpi.edu/~yli15/Includes/23-SDM-DDML-Xin-PDFA.pdf)
+Arifact (https://github.com/XinZhang525/SDM-DDML)
 
 ## Environment
 You can install required packages via pip.
