@@ -1,5 +1,5 @@
-# DDML
-This repository contains code for DDML. Some of the methods are adopted from the [ARM](https://github.com/henrikmarklund/arm). We use three datasets to do expeirments on, including rotated MNIST, affNIST and rotated Tiny ImageNet-C.
+## Reproducibility Study
+This project is a reproducibility Study of Domain Disentangled Meta-Learning (DDML): SDM'23 (https://github.com/XinZhang525/SDM-DDML)
 
 ## Environment
 You can install required packages via pip.
@@ -46,4 +46,4 @@ python test.py --dataset rimagenet --eval_on test --pretrained 1 --prediction_ne
 ```
 
 ## References
-Zhang, M., Marklund, H., Gupta, A., Levine, S., & Finn, C. (2020). Adaptive Risk Minimization: A Meta-Learning Approach for Tackling Group Shift. arXiv preprint arXiv:2007.02931.
+Zhang, X., Li, Y., Zhang, Z., Zhang, Z.-L. (2023). Domain Disentangled Meta-Learning.
